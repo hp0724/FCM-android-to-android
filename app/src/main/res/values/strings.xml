@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCM_android_to_android.5.13</string>
+    <string name="msg_token_fmt" translatable="false">토큰 %s</string>
+</resources>

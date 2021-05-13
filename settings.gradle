@@ -1,0 +1,2 @@
+rootProject.name = "FCM_android_to_android.5.13"
+include ':app'
